@@ -1,45 +1,28 @@
-name: Update WakaTime Stats
+name: Update README with WakaTime
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: Update README with WakaTime
     runs-on: ubuntu-latest
 
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
           REPOSITORY: DevMuhammadHussnain/DevMuhammadHussnain
-
           SHOW_TITLE: true
           SECTION_NAME: waka
-
           BLOCKS: ░▒▓█
-
           TIME_RANGE: all_time
-
+          LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-
-          SHOW_LANGUAGE: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-
-          SHOW_LOC_CHART: true
-
-          LANG_COUNT: 10
-          PROJECT_COUNT: 8
-
-          COMMIT_BY_ME: true
-
-          SYMBOL_VERSION: 2
-
-          IGNORED_REPOS: ""
+          STOP_AT_OTHER: true
