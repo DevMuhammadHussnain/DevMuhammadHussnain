@@ -14,8 +14,8 @@ I enjoy building modern web applications, automating workflows, exploring AI, un
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevMuhammadHussnain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/DevMuhammadHussnain?label=Followers&style=flat&logo=github"/>
-  <img src="https://img.shields.io/github/stars/DevMuhammadHussnain?affiliations=OWNER&style=flat&logo=github"/>
+  <img src="https://img.shields.io/github/followers/DevMuhammadHussnain?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/DevMuhammadHussnain?style=flat&logo=github&label=Profile%20Stars" alt="GitHub Stars"/>
 </p>
 
 ---
@@ -46,6 +46,8 @@ const MuhammadHussnain = {
   ],
 
   motto: "Keep building. Keep learning. Keep exploring.",
+  website: "https://mise-sys.vercel.app/",
+  email: "misesysofficial@gmail.com",
 };
 ```
 
@@ -56,19 +58,12 @@ const MuhammadHussnain = {
 ## 🌐 Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nextjs"/>
-
 <img src="https://skillicons.dev/icons?i=react"/>
-
 <img src="https://skillicons.dev/icons?i=typescript"/>
-
 <img src="https://skillicons.dev/icons?i=javascript"/>
-
 <img src="https://skillicons.dev/icons?i=html"/>
-
 <img src="https://skillicons.dev/icons?i=css"/>
-
 </p>
 
 ---
@@ -76,15 +71,10 @@ const MuhammadHussnain = {
 ## ⚙ Backend & Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs"/>
-
 <img src="https://skillicons.dev/icons?i=mongodb"/>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 <img src="https://skillicons.dev/icons?i=sqlite"/>
-
 </p>
 
 ---
@@ -92,15 +82,10 @@ const MuhammadHussnain = {
 ## 💻 Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python"/>
-
 <img src="https://skillicons.dev/icons?i=cs"/>
-
 <img src="https://skillicons.dev/icons?i=c"/>
-
 <img src="https://skillicons.dev/icons?i=lua"/>
-
 </p>
 
 ---
@@ -108,19 +93,12 @@ const MuhammadHussnain = {
 ## 🛠 Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git"/>
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 <img src="https://skillicons.dev/icons?i=githubactions"/>
-
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
 <img src="https://skillicons.dev/icons?i=linux"/>
-
 <img src="https://skillicons.dev/icons?i=bash"/>
-
 </p>
 
 ---
@@ -144,25 +122,20 @@ const MuhammadHussnain = {
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img
 height="170"
 src="https://github-readme-stats.vercel.app/api?username=DevMuhammadHussnain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
 />
-
 <img
 height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMuhammadHussnain&layout=compact&theme=tokyonight&hide_border=true"
 />
-
 </p>
 
 <p align="center">
-
 <img
 src="https://github-readme-streak-stats.herokuapp.com?user=DevMuhammadHussnain&theme=tokyonight&hide_border=true"
 />
-
 </p>
 
 ---
@@ -170,11 +143,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=DevMuhammadHussnain&t
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadHussnain&theme=tokyo-night&hide_border=true"
 />
-
 </p>
 
 ---
@@ -182,11 +153,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadH
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img
 src="https://github-profile-trophy.vercel.app/?username=DevMuhammadHussnain&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"
 />
-
 </p>
 
 ---
@@ -203,7 +172,6 @@ src="https://github-profile-trophy.vercel.app/?username=DevMuhammadHussnain&them
 # 📅 Weekly Development Breakdown
 
 <!--START_SECTION:waka_simple-->
-
 <!--END_SECTION:waka_simple-->
 
 ---
@@ -211,25 +179,17 @@ src="https://github-profile-trophy.vercel.app/?username=DevMuhammadHussnain&them
 # 📊 Coding Metrics
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMuhammadHussnain&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevMuhammadHussnain&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevMuhammadHussnain&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevMuhammadHussnain&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevMuhammadHussnain&theme=tokyonight&utcOffset=5"/>
-
 </p>
 
 ---
@@ -258,68 +218,49 @@ I'm currently focused on understanding **how things actually work** rather than 
 
 ### 🌐 Web Development
 
-✔ Next.js
-
-✔ React
-
-✔ JavaScript
-
-✔ TypeScript
-
-✔ HTML5
-
+✔ Next.js  
+✔ React  
+✔ JavaScript  
+✔ TypeScript  
+✔ HTML5  
 ✔ CSS3
 
 ---
 
 ### 🗄 Databases
 
-✔ MongoDB
-
-✔ SQL
-
+✔ MongoDB  
+✔ SQL  
 ✔ NoSQL
 
 ---
 
 ### 💻 Programming
 
-✔ Python
-
-✔ C#
-
-✔ C
-
+✔ Python  
+✔ C#  
+✔ C  
 ✔ Lua
 
 ---
 
 ### ⚙ Development Tools
 
-✔ Git
-
-✔ GitHub
-
-✔ GitHub Actions
-
-✔ VS Code
-
+✔ Git  
+✔ GitHub  
+✔ GitHub Actions  
+✔ VS Code  
 ✔ Linux
 
 ---
 
 ### 🤖 Other Skills
 
-✔ Artificial Intelligence
-
-✔ Automation
-
-✔ API Development
-
-✔ REST APIs
-
-✔ Basic Cyber Security
-
+✔ Artificial Intelligence  
+✔ Automation  
+✔ API Development  
+✔ REST APIs  
+✔ Basic Cyber Security  
 ✔ Roblox Development
 
 ---
@@ -350,9 +291,7 @@ I'm currently focused on understanding **how things actually work** rather than 
 # 📈 GitHub Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/DevMuhammadHussnain/DevMuhammadHussnain/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
@@ -421,32 +360,19 @@ Never stop improving.
 
 ```text
 Web Development      ████████████████████ 100%
-
 JavaScript           ████████████████████
-
 TypeScript           ██████████████████░░
-
 React                ████████████████████
-
 Next.js              ████████████████████
-
 MongoDB              ██████████████████░░
-
 SQL                  █████████████████░░░
-
 Git                  ████████████████████
-
 GitHub Actions       █████████████████░░░
-
 Python               █████████████████░░░
-
 Lua                  ███████████████░░░░░
-
 Cyber Security       ████████░░░░░░░░░░░░
-
 Artificial Intelligence
                      ████████░░░░░░░░░░░░
-
 System Design        ███████░░░░░░░░░░░░░
 ```
 
@@ -455,24 +381,17 @@ System Design        ███████░░░░░░░░░░░░�
 # 🌍 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/DevMuhammadHussnain">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<!-- Add more when available -->
-
-<!--
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://mise-sys.vercel.app/">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
 </a>
 
-<a href="https://x.com/USERNAME">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x">
+<a href="mailto:misesysofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
--->
-
 </p>
 
 ---
@@ -480,9 +399,7 @@ System Design        ███████░░░░░░░░░░░░�
 # 📚 Favorite Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mongodb,git,github,githubactions,python,linux,vscode"/>
-
 </p>
 
 ---
@@ -496,9 +413,7 @@ System Design        ███████░░░░░░░░░░░░�
 # 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DevMuhammadHussnain&label=Profile+Views&style=for-the-badge&color=blue">
-
+<img src="https://komarev.com/ghpvc/?username=DevMuhammadHussnain&label=Profile+Views&style=for-the-badge&color=blue" alt="Profile Visitors">
 </p>
 
 ---
@@ -506,7 +421,6 @@ System Design        ███████░░░░░░░░░░░░�
 # ⭐ Thanks for visiting!
 
 <p align="center">
-
 If you like my work, consider giving a ⭐ to my repositories.
 
 Happy Coding! 🚀
