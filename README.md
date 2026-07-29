@@ -136,6 +136,21 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadH
 # ⌨️ Statistics
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 January 2026 - To: 28 July 2026
+
+Total Time: 27 hrs 42 mins
+
+Python               17 hrs 11 mins        ███████████████▒░░░░░░░░░   61.21 %
+HTML                 5 hrs 36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+JSON                 1 hr 55 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+TypeScript           1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+C                    42 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+JavaScript           32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other                23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
