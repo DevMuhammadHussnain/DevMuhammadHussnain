@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Muhammad Hussnain Banner" width="100%">
+  <img src="./banner.png" alt="Muhammad Hussnain Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussnain</h1>
@@ -58,12 +58,12 @@ const MuhammadHussnain = {
 ## 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=typescript"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="30px"/>
+<img src="https://skillicons.dev/icons?i=react"  width="30px"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="30px"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="30px"/>
+<img src="https://skillicons.dev/icons?i=html"  width="30px"/>
+<img src="https://skillicons.dev/icons?i=css"  width="30px"/>
 </p>
 
 ---
@@ -71,10 +71,10 @@ const MuhammadHussnain = {
 ## ⚙ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
+<img src="https://skillicons.dev/icons?i=nodejs"  width="30px"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="30PX" />
+<img src="https://skillicons.dev/icons?i=mysql" width="30px" />
+<img src="https://skillicons.dev/icons?i=sqlite" width="30px" />
 </p>
 
 ---
@@ -82,10 +82,10 @@ const MuhammadHussnain = {
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=cs"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=lua"/>
+<img src="https://skillicons.dev/icons?i=python" width="30px" />
+<img src="https://skillicons.dev/icons?i=cs" width="30px" />
+<img src="https://skillicons.dev/icons?i=c" width="30px" />
+<img src="https://skillicons.dev/icons?i=lua" width="30px" />
 </p>
 
 ---
@@ -93,12 +93,12 @@ const MuhammadHussnain = {
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=bash"/>
+<img src="https://skillicons.dev/icons?i=git" width="30px" />
+<img src="https://skillicons.dev/icons?i=github" width="30px" />
+<img src="https://skillicons.dev/icons?i=githubactions" width="30px" />
+<img src="https://skillicons.dev/icons?i=vscode" width="30px" />
+<img src="https://skillicons.dev/icons?i=linux" width="30px" />
+<img src="https://skillicons.dev/icons?i=bash" width="30px" />
 </p>
 
 ---
@@ -107,30 +107,13 @@ const MuhammadHussnain = {
 
 - 🌐 Full Stack Development
 - ⚛️ React & Next.js
-- 🤖 Artificial Intelligence
-- 🔐 Cyber Security
-- ⚙️ Automation
-- ☁️ Cloud Technologies
-- 🧠 Reverse Engineering
 - 🖥️ Operating Systems
 - 🌍 Networking
 - 📦 Open Source
-- 🎮 Roblox Development (Lua)
 
 ---
 
 # 📊 GitHub Statistics
-
-<p align="center">
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=DevMuhammadHussnain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMuhammadHussnain&layout=compact&theme=tokyonight&hide_border=true"
-/>
-</p>
 
 <p align="center">
 <img
@@ -150,19 +133,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadH
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=DevMuhammadHussnain&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"
-/>
-</p>
-
----
-
-# ⌨️ WakaTime Statistics
-
-> Coding activity updates automatically every few hours.
+# ⌨️ Statistics
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -254,25 +225,12 @@ I'm currently focused on understanding **how things actually work** rather than 
 
 ---
 
-### 🤖 Other Skills
-
-✔ Artificial Intelligence  
-✔ Automation  
-✔ API Development  
-✔ REST APIs  
-✔ Basic Cyber Security  
-✔ Roblox Development
-
----
-
 # 🚀 What I Love Building
 
 - 🌐 Modern Web Applications
 - ⚡ Developer Tools
 - 📦 Open Source Projects
-- 🤖 AI Integrations
 - 🛠 Automation Scripts
-- 🎮 Roblox Experiences
 - 🔐 Security Tools
 - 📊 Dashboards
 
@@ -288,17 +246,7 @@ I'm currently focused on understanding **how things actually work** rather than 
 
 ---
 
-# 📈 GitHub Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/DevMuhammadHussnain/DevMuhammadHussnain/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 📊 GitHub Metrics
-
-> Updated automatically every day.
 
 <img src="https://metrics.lecoq.io/DevMuhammadHussnain?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&isocalendar=1&achievements=1"/>
 
@@ -324,57 +272,6 @@ Never stop improving.
 - 🤝 Open Source contributor
 - ⚡ Passionate about automation & developer experience
 - 🧠 Always experimenting with AI and new technologies
-
----
-
-# 📌 Featured Projects
-
-> Replace these with your own repositories.
-
-| Project            | Description              | Tech                |
-| ------------------ | ------------------------ | ------------------- |
-| 🚀 Project One     | A modern web application | Next.js, TypeScript |
-| 🤖 AI Project      | AI-powered application   | Python, AI          |
-| 📊 Dashboard       | Analytics Dashboard      | React, MongoDB      |
-| ⚙️ Automation Tool | GitHub automation        | GitHub Actions      |
-| 🎮 Roblox Game     | Roblox experience        | Lua                 |
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build high-quality open source projects
-- ✅ Master Full Stack Development
-- ✅ Learn AI & Machine Learning
-- ✅ Understand Operating Systems deeply
-- ✅ Learn Networking
-- ✅ Learn Reverse Engineering
-- ✅ Improve Cyber Security knowledge
-- ✅ Build SaaS products
-- ✅ Contribute to major open-source projects
-- ✅ Help other developers
-
----
-
-# 📈 My Development Journey
-
-```text
-Web Development      ████████████████████ 100%
-JavaScript           ████████████████████
-TypeScript           ██████████████████░░
-React                ████████████████████
-Next.js              ████████████████████
-MongoDB              ██████████████████░░
-SQL                  █████████████████░░░
-Git                  ████████████████████
-GitHub Actions       █████████████████░░░
-Python               █████████████████░░░
-Lua                  ███████████████░░░░░
-Cyber Security       ████████░░░░░░░░░░░░
-Artificial Intelligence
-                     ████████░░░░░░░░░░░░
-System Design        ███████░░░░░░░░░░░░░
-```
 
 ---
 
