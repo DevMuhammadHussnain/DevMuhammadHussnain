@@ -57,7 +57,7 @@ const MuhammadHussnain = {
 
 ## 🌐 Frontend
 
-<p>
+<p style="display:flex; justify-content : center; gap:20px;">
 <img src="https://skillicons.dev/icons?i=nextjs" width="30px"/>
 <img src="https://skillicons.dev/icons?i=react"  width="30px"/>
 <img src="https://skillicons.dev/icons?i=typescript" width="30px"/>
@@ -70,7 +70,7 @@ const MuhammadHussnain = {
 
 ## ⚙ Backend & Database
 
-<p>
+<p style="display:flex; justify-content : center; gap:20px;">
 <img src="https://skillicons.dev/icons?i=nodejs"  width="30px"/>
 <img src="https://skillicons.dev/icons?i=mongodb" width="30PX" />
 <img src="https://skillicons.dev/icons?i=mysql" width="30px" />
@@ -81,7 +81,7 @@ const MuhammadHussnain = {
 
 ## 💻 Programming Languages
 
-<p>
+<p style="display:flex; justify-content : center; gap:20px;">
 <img src="https://skillicons.dev/icons?i=python" width="30px" />
 <img src="https://skillicons.dev/icons?i=cs" width="30px" />
 <img src="https://skillicons.dev/icons?i=c" width="30px" />
@@ -92,7 +92,7 @@ const MuhammadHussnain = {
 
 ## 🛠 Tools
 
-<p>
+<p style="display:flex; justify-content : center; gap:20px;">
 <img src="https://skillicons.dev/icons?i=git" width="30px" />
 <img src="https://skillicons.dev/icons?i=github" width="30px" />
 <img src="https://skillicons.dev/icons?i=githubactions" width="30px" />
@@ -292,26 +292,24 @@ Never stop improving.
 
 # 🌍 Connect With Me
 
-<p align="center">
-<a href="https://github.com/DevMuhammadHussnain">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://mise-sys.vercel.app/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
-</a>
-
-<a href="mailto:misesysofficial@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://github.com/DevMuhammadHussnain">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://mise-sys.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:misesysofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 # 📚 Favorite Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mongodb,git,github,githubactions,python,linux,vscode"/>
+<p align="center" style="display:flex; justify-content : space-between;">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mongodb,git,github,githubactions,python,linux,vscode"width="500px"/>
 </p>
 
 ---
