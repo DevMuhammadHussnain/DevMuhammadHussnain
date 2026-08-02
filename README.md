@@ -163,23 +163,7 @@ Other                23 mins               ▒░░░░░░░░░░░�
 
 ---
 
-# 📊 Coding Metrics
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMuhammadHussnain&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevMuhammadHussnain&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevMuhammadHussnain&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevMuhammadHussnain&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevMuhammadHussnain&theme=tokyonight&utcOffset=5"/>
-</p>
-
----
 
 # ⚡ Currently Learning
 
