@@ -111,15 +111,6 @@ const MuhammadHussnain = {
 - 🌍 Networking
 - 📦 Open Source
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=DevMuhammadHussnain&theme=tokyonight&hide_border=true"
-/>
-</p>
 
 ---
 
