@@ -129,19 +129,19 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadH
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 07 August 2026
+From: 19 January 2026 - To: 08 August 2026
 
-Total Time: 33 hrs 43 mins
+Total Time: 36 hrs 5 mins
 
-Python               18 hrs 13 mins        █████████████▒░░░░░░░░░░░   53.41 %
-HTML                 5 hrs 38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Rust                 3 hrs                 ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-JSON                 2 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-TypeScript           1 hr 49 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Markdown             59 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-C                    42 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JavaScript           35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Other                23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Python               18 hrs 13 mins        ████████████▒░░░░░░░░░░░░   49.94 %
+HTML                 6 hrs 26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+Rust                 3 hrs 35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+JSON                 2 hrs 49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+TypeScript           1 hr 49 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Markdown             59 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+C                    42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+JavaScript           40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Other                23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
