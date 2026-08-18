@@ -239,12 +239,6 @@ I'm currently focused on understanding **how things actually work** rather than 
 
 ---
 
-# 📊 GitHub Metrics
-
-<img src="https://metrics.lecoq.io/DevMuhammadHussnain?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&isocalendar=1&achievements=1"/>
-
----
-
 # 💡 Philosophy
 
 ```text
