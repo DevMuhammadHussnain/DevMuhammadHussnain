@@ -113,16 +113,15 @@ const MuhammadHussnain = {
 
 
 ---
-# 📈 Contribution Graph
-
 <p align="center">
-  # 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://vercel.app)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <b>📈 Contribution Graph</b>
+  <br><br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://vercel.app" alt="GitHub Activity Graph" />
+  </a>
 </p>
-
 ---
+
 
 
 ---
