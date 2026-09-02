@@ -113,13 +113,12 @@ const MuhammadHussnain = {
 
 
 ---
-
 # 📈 Contribution Graph
 
 <p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuhammadHussnain&theme=tokyo-night&hide_border=true"
-/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://demolab.com" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
