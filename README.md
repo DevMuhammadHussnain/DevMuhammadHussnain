@@ -117,7 +117,7 @@ const MuhammadHussnain = {
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://demolab.com" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad%20Hussnain&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
   </a>
 </p>
 
@@ -147,14 +147,6 @@ Other                33 mins               ▒░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-
-# 📅 Weekly Development Breakdown
-
-<!--START_SECTION:waka_simple-->
-<!--END_SECTION:waka_simple-->
-
----
-
 
 
 # ⚡ Currently Learning
