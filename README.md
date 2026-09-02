@@ -115,7 +115,7 @@ const MuhammadHussnain = {
 ---
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?DevMuhammadHussnain" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=DevMuhammadHussnain" alt="GitHub Streak Stats" />
   </a>
 </p>
 ---
