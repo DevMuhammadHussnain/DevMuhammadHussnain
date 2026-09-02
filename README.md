@@ -116,9 +116,10 @@ const MuhammadHussnain = {
 # 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://demolab.com" alt="GitHub Streak" />
-  </a>
+  # 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://vercel.app)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
 ---
