@@ -125,20 +125,20 @@ const MuhammadHussnain = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 02 September 2026
+From: 19 January 2026 - To: 03 September 2026
 
-Total Time: 52 hrs 33 mins
+Total Time: 54 hrs 12 mins
 
-Python               19 hrs 42 mins        █████████▒░░░░░░░░░░░░░░░   37.11 %
-HTML                 7 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-CSS                  6 hrs 10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Rust                 4 hrs 54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-TypeScript           4 hrs 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-JSON                 4 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-JavaScript           2 hrs 47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Markdown             1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-C                    42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Other                33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python               19 hrs 42 mins        █████████░░░░░░░░░░░░░░░░   36.00 %
+CSS                  7 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+HTML                 7 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+TypeScript           5 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Rust                 4 hrs 58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+JSON                 4 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+JavaScript           2 hrs 47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Markdown             1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+C                    42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other                33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
