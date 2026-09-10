@@ -125,7 +125,7 @@ const MuhammadHussnain = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 08 September 2026
+From: 19 January 2026 - To: 09 September 2026
 
 Total Time: 67 hrs 11 mins
 
