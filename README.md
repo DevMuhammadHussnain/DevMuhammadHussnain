@@ -183,6 +183,22 @@ I'm focused on understanding how technologies work internally, not just how to u
 ## GitHub & Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 January 2026 - To: 16 October 2026
+
+Total Time: 164 hrs 49 mins
+
+TypeScript           65 hrs 2 mins         █████████▓░░░░░░░░░░░░░░░   38.86 %
+Python               25 hrs 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+CSS                  22 hrs 27 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Rust                 13 hrs 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JSON                 12 hrs 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+HTML                 7 hrs 46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+JavaScript           5 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other                2 hrs 34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
