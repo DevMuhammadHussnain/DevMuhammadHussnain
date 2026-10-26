@@ -185,19 +185,19 @@ I'm focused on understanding how technologies work internally, not just how to u
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 24 October 2026
+From: 19 January 2026 - To: 25 October 2026
 
-Total Time: 170 hrs 57 mins
+Total Time: 171 hrs 42 mins
 
-TypeScript           67 hrs 32 mins        █████████▓░░░░░░░░░░░░░░░   38.86 %
-Python               25 hrs 48 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-CSS                  22 hrs 39 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-JSON                 14 hrs 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Rust                 13 hrs 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-HTML                 8 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-JavaScript           5 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-TOML                 2 hrs 55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Other                2 hrs 51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+TypeScript           68 hrs 5 mins         █████████▓░░░░░░░░░░░░░░░   39.01 %
+Python               25 hrs 48 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+CSS                  22 hrs 39 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+JSON                 14 hrs 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Rust                 13 hrs 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+HTML                 8 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+JavaScript           5 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+TOML                 2 hrs 55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other                2 hrs 51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
