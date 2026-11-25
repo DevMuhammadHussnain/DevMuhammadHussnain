@@ -185,7 +185,7 @@ I'm focused on understanding how technologies work internally, not just how to u
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 23 November 2026
+From: 19 January 2026 - To: 24 November 2026
 
 Total Time: 190 hrs 33 mins
 
